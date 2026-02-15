@@ -3,6 +3,7 @@
 **Atrapacorazones** es un juego arcade sencillo y adictivo. El objetivo es recolectar la mayor cantidad de corazones posible mientras caen, evitando que toquen el suelo. ¡Mantén tus reflejos alerta, ya que solo tienes **3 oportunidades**!
 
 ---
+![](https://github.com/nerdemma/atrapacorazones/blob/main/game.gif)
 
 ## 🎮 Controles
 
